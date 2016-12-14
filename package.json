@@ -1,0 +1,22 @@
+{
+  "name": "week19-nyt",
+  "version": "1.0.0",
+  "description": "reactjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandraduarte/week19-nyt.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "sd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandraduarte/week19-nyt/issues"
+  },
+  "homepage": "https://github.com/sandraduarte/week19-nyt#readme"
+}
